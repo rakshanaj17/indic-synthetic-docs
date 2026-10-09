@@ -1,0 +1,19 @@
+{
+  "id": "deed_00007",
+  "seed": 7,
+  "levels": [
+    "mild",
+    "moderate",
+    "severe"
+  ],
+  "seller": "நடராஜன்",
+  "buyer": "ஆறுமுகம்",
+  "district": "தஞ்சாவூர்",
+  "village": "கும்பகோணம்",
+  "year": 1968,
+  "month": "சனவரி",
+  "day": 17,
+  "price": 16500,
+  "survey": "232/7",
+  "area_sqft": 700
+}
